@@ -1,0 +1,2 @@
+mpic++ main.cpp -o main
+mpirun --oversubscribe -np 6 ./main
